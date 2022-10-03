@@ -20,6 +20,7 @@ h2 {
 
 h3 {
     font-size: 1.6rem;
+    color: darkkhaki;
 }
 
 h4 {
@@ -42,6 +43,7 @@ h6 {
 
 * {
     box-sizing: border-box;
+    background-color: black;
 }
 
 body {
@@ -73,6 +75,7 @@ body {
 .column-3 {
     width: 33.33%;
     float: left;
+    margin: 2px;
 }
 
 .column-4 {
@@ -102,8 +105,16 @@ body {
     text-align: center;
 }
 
+td {
+    color: white;
+}
+
 
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
+
+.padding-m {
+    padding: 2.5%;
+}
 
 .flex {
     display: flex;
@@ -113,6 +124,14 @@ body {
 
 a {
     color: blue;
+}
+
+p {
+    color: white;
+}
+
+b {
+    color: white;
 }
 
 @media only screen and (max-width: 600px) {

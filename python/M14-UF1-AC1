@@ -1,0 +1,23 @@
+# Ejercicio 1
+# print("Dime un numero")
+# num1 = input()
+# print("Dime otro numero")
+# num2 = input()
+# print("La división de" num1 "entre" num2 "da un cociente" ,num1/num2 "y un resto" ,num1%num2)
+
+# Ejercicio 2
+población_inicial = 200
+Operacion2 = población_inicial*2**5
+Operacion3 = población_inicial*2**5
+Operacion4 = población_inicial*2**5
+Operacion5 = población_inicial*2**5
+
+# Ejercicio 3
+# edad = int(input("Que edad tienes?"))
+# salario = int(input("Cuanto cobras anualmente?"))
+# if edad < 15:
+#     print("No puedes hacer la declaracion de la renta ya que eres menos de 16 años")
+# elif (salario>21999):
+#     print("Si puedes hacer la de declaración de la renta ya que cumples con los requisitos")
+# else:
+#     print("No cumples con algunos de los requisitos")
